@@ -2,10 +2,6 @@
 ## ✒️About Me
 I'm currently pursuing a Bachelor of Accounting and Financial Management at the University of Waterloo. Data analytics has captured my interest, and I'm working to expand my skill set to perform deeper analysis on large data sets and create powerful visualizations.
 
-![image](https://user-images.githubusercontent.com/120992462/208654307-da723953-981b-4934-8671-c3187a8512a2.png)
-
-
-
 
 
 <!--
