@@ -1,6 +1,6 @@
 # Hi there! I'm Ally ✌️
 ## ✒️About Me
-#### I'm currently pursuing a Bachelor of Accounting and Financial Management at the University of Waterloo. Data analytics has captured my interest, and I'm working to expand my skill set to perform deeper analysis on large data sets and create powerful visualizations.
+I'm currently pursuing a Bachelor of Accounting and Financial Management at the University of Waterloo. Data analytics has captured my interest, and I'm working to expand my skill set to perform deeper analysis on large data sets and create powerful visualizations.
 
 
 <!--
